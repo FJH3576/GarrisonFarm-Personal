@@ -1,0 +1,8 @@
+farm_logs/
+__pycache__/
+*.pyc
+settings.json
+strategies_done.json
+_internal/
+*.exe
+*.zip

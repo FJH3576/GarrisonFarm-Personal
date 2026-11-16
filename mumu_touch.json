@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "emulator_path": "E:\\MuMuPlayer",
+  "instance_index": null,
+  "package_name": "com.hypergryph.arknights",
+  "move_interval": 0.016,
+  "diagnostic_adb_address": "127.0.0.1:16416",
+  "fast_capture": true
+}
